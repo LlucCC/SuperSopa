@@ -1,0 +1,1 @@
+Para ejecutar diccScript.sh cambia la carpeta de los samples con la que quieras probar en el archivo diccScript.sh

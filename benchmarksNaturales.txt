@@ -1,0 +1,252 @@
+
+------------------
+./samplesDef/dracula-vocabulary-4_100.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.002302
+Tiempo de backtracking: 0.090115
+Tiempo total: 0.092417
+Palabras encontradas: 2996
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.00285
+Tiempo de backtracking: 0.021571
+Tiempo total: 0.024421
+Palabras encontradas: 2996
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.012168
+Tiempo de backtracking: 0.063098
+Tiempo total: 0.075266
+Palabras encontradas: 2996
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.006505
+Tiempo de backtracking: 0.048291
+Tiempo total: 0.054796
+Palabras encontradas: 2996
+ 
+
+------------------
+./samplesDef/dracula-vocabulary-4_1000.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.033914
+Tiempo de backtracking: 8.82218
+Tiempo total: 8.85609
+Palabras encontradas: 7363
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.034176
+Tiempo de backtracking: 2.04581
+Tiempo total: 2.07999
+Palabras encontradas: 7363
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.043904
+Tiempo de backtracking: 6.11393
+Tiempo total: 6.15784
+Palabras encontradas: 7363
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.037715
+Tiempo de backtracking: 4.60232
+Tiempo total: 4.64004
+Palabras encontradas: 7363
+ 
+
+------------------
+./samplesDef/dracula-vocabulary-4_5000.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.8188
+Tiempo de backtracking: 220.056
+Tiempo total: 220.874
+Palabras encontradas: 8871
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.788909
+Tiempo de backtracking: 52.2364
+Tiempo total: 53.0253
+Palabras encontradas: 8871
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.813276
+Tiempo de backtracking: 156.737
+Tiempo total: 157.551
+Palabras encontradas: 8871
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.817589
+Tiempo de backtracking: 119.267
+Tiempo total: 120.085
+Palabras encontradas: 8871
+ 
+
+------------------
+./samplesDef/mare-balena-vocabulary_3_100.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.001353
+Tiempo de backtracking: 0.057172
+Tiempo total: 0.058525
+Palabras encontradas: 1536
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.001753
+Tiempo de backtracking: 0.014278
+Tiempo total: 0.016031
+Palabras encontradas: 1536
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.007656
+Tiempo de backtracking: 0.041871
+Tiempo total: 0.049527
+Palabras encontradas: 1536
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.00367
+Tiempo de backtracking: 0.030846
+Tiempo total: 0.034516
+Palabras encontradas: 1536
+ 
+
+------------------
+./samplesDef/mare-balena-vocabulary_3_1000.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.034514
+Tiempo de backtracking: 5.49409
+Tiempo total: 5.52861
+Palabras encontradas: 3827
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.034642
+Tiempo de backtracking: 1.24537
+Tiempo total: 1.28001
+Palabras encontradas: 3827
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.040464
+Tiempo de backtracking: 3.80214
+Tiempo total: 3.84261
+Palabras encontradas: 3827
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.037604
+Tiempo de backtracking: 2.89893
+Tiempo total: 2.93654
+Palabras encontradas: 3827
+ 
+
+------------------
+./samplesDef/mare-balena-vocabulary_3_5000.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.737336
+Tiempo de backtracking: 136.252
+Tiempo total: 136.989
+Palabras encontradas: 4754
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.783999
+Tiempo de backtracking: 30.894
+Tiempo total: 31.678
+Palabras encontradas: 4754
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.848185
+Tiempo de backtracking: 94.9325
+Tiempo total: 95.7807
+Palabras encontradas: 4754
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.762113
+Tiempo de backtracking: 72.9687
+Tiempo total: 73.7308
+Palabras encontradas: 4754
+ 
+
+------------------
+./samplesDef/quijote-vocabulary-3_100.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.00558
+Tiempo de backtracking: 0.100528
+Tiempo total: 0.106108
+Palabras encontradas: 3866
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.007137
+Tiempo de backtracking: 0.022384
+Tiempo total: 0.029521
+Palabras encontradas: 3866
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.032723
+Tiempo de backtracking: 0.067499
+Tiempo total: 0.100222
+Palabras encontradas: 3866
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.017274
+Tiempo de backtracking: 0.062073
+Tiempo total: 0.079347
+Palabras encontradas: 3866
+ 
+
+------------------
+./samplesDef/quijote-vocabulary-3_1000.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.039994
+Tiempo de backtracking: 10.2088
+Tiempo total: 10.2488
+Palabras encontradas: 14804
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.040772
+Tiempo de backtracking: 2.23701
+Tiempo total: 2.27778
+Palabras encontradas: 14804
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.063956
+Tiempo de backtracking: 6.32
+Tiempo total: 6.38395
+Palabras encontradas: 14804
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.048231
+Tiempo de backtracking: 4.05811
+Tiempo total: 4.10634
+Palabras encontradas: 14804
+ 
+
+------------------
+./samplesDef/quijote-vocabulary-3_5000.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.827736
+Tiempo de backtracking: 253.735
+Tiempo total: 254.563
+Palabras encontradas: 20084
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.818757
+Tiempo de backtracking: 55.7211
+Tiempo total: 56.5399
+Palabras encontradas: 20084
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.863517
+Tiempo de backtracking: 159.836
+Tiempo total: 160.699
+Palabras encontradas: 20084
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.835278
+Tiempo de backtracking: 101.255
+Tiempo total: 102.09
+Palabras encontradas: 20084
+ 
