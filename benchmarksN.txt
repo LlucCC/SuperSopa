@@ -1,0 +1,140 @@
+
+------------------
+./samplesRandom/sample_10000_20_10_5.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 3.1575
+Tiempo de backtracking: 36.6902
+Tiempo total: 39.8477
+Palabras encontradas: 20
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 3.36117
+Tiempo de backtracking: 8.63602
+Tiempo total: 11.9972
+Palabras encontradas: 20
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 2.85631
+Tiempo de backtracking: 33.242
+Tiempo total: 36.0983
+Palabras encontradas: 20
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 3.3153
+Tiempo de backtracking: 32.6892
+Tiempo total: 36.0045
+Palabras encontradas: 20
+ 
+
+------------------
+./samplesRandom/sample_1000_20_10_5.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.032686
+Tiempo de backtracking: 0.349089
+Tiempo total: 0.381775
+Palabras encontradas: 20
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.032243
+Tiempo de backtracking: 0.085608
+Tiempo total: 0.117851
+Palabras encontradas: 20
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.032868
+Tiempo de backtracking: 0.336422
+Tiempo total: 0.36929
+Palabras encontradas: 20
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.033209
+Tiempo de backtracking: 0.331177
+Tiempo total: 0.364386
+Palabras encontradas: 20
+ 
+
+------------------
+./samplesRandom/sample_100_20_10_5.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.000378
+Tiempo de backtracking: 0.003595
+Tiempo total: 0.003973
+Palabras encontradas: 19
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.000369
+Tiempo de backtracking: 0.000933
+Tiempo total: 0.001302
+Palabras encontradas: 19
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.000411
+Tiempo de backtracking: 0.003598
+Tiempo total: 0.004009
+Palabras encontradas: 19
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.000414
+Tiempo de backtracking: 0.003522
+Tiempo total: 0.003936
+Palabras encontradas: 19
+ 
+
+------------------
+./samplesRandom/sample_5000_20_10_5.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.816511
+Tiempo de backtracking: 8.98297
+Tiempo total: 9.79948
+Palabras encontradas: 20
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.838748
+Tiempo de backtracking: 2.38408
+Tiempo total: 3.22283
+Palabras encontradas: 20
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.832054
+Tiempo de backtracking: 9.48533
+Tiempo total: 10.3174
+Palabras encontradas: 20
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.832634
+Tiempo de backtracking: 9.8583
+Tiempo total: 10.6909
+Palabras encontradas: 20
+ 
+
+------------------
+./samplesRandom/sample_500_20_10_5.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.008187
+Tiempo de backtracking: 0.093128
+Tiempo total: 0.101315
+Palabras encontradas: 20
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.008235
+Tiempo de backtracking: 0.023764
+Tiempo total: 0.031999
+Palabras encontradas: 20
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.008501
+Tiempo de backtracking: 0.096768
+Tiempo total: 0.105269
+Palabras encontradas: 20
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.008435
+Tiempo de backtracking: 0.107252
+Tiempo total: 0.115687
+Palabras encontradas: 20
+ 

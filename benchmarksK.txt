@@ -1,0 +1,187 @@
+
+------------------
+./samplesRandomK/sample_1000_1000_20_10.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.031603
+Tiempo de backtracking: 5.19857
+Tiempo total: 5.23018
+Numero de llamadas: 74650527
+Palabras encontradas: 818
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.033237
+Tiempo de backtracking: 1.49407
+Tiempo total: 1.52731
+Numero de llamadas: 74825086
+Palabras encontradas: 818
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.034264
+Tiempo de backtracking: 4.85757
+Tiempo total: 4.89183
+Numero de llamadas: 69758530
+Palabras encontradas: 818
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.032902
+Tiempo de backtracking: 4.04483
+Tiempo total: 4.07773
+Numero de llamadas: 74825086
+Palabras encontradas: 818
+ 
+
+------------------
+./samplesRandomK/sample_1000_1000_20_15.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.032736
+Tiempo de backtracking: 5.12536
+Tiempo total: 5.1581
+Numero de llamadas: 74580657
+Palabras encontradas: 544
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.031715
+Tiempo de backtracking: 1.48352
+Tiempo total: 1.51524
+Numero de llamadas: 73935676
+Palabras encontradas: 544
+ 
+Ejecutando diccBloomFilter: 
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.034473
+Tiempo de backtracking: 3.67432
+Tiempo total: 3.7088
+Numero de llamadas: 73935676
+Palabras encontradas: 544
+ 
+
+------------------
+./samplesRandomK/sample_1000_1000_20_20.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.033841
+Tiempo de backtracking: 5.59173
+Tiempo total: 5.62557
+Numero de llamadas: 76686457
+Palabras encontradas: 407
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.033838
+Tiempo de backtracking: 1.49944
+Tiempo total: 1.53328
+Numero de llamadas: 77312312
+Palabras encontradas: 407
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.035651
+Tiempo de backtracking: 5.15147
+Tiempo total: 5.18712
+Numero de llamadas: 74740845
+Palabras encontradas: 407
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.033459
+Tiempo de backtracking: 4.47917
+Tiempo total: 4.51263
+Numero de llamadas: 77312312
+Palabras encontradas: 407
+ 
+
+------------------
+./samplesRandomK/sample_1000_1000_20_3.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.032819
+Tiempo de backtracking: 5.25204
+Tiempo total: 5.28485
+Numero de llamadas: 71143595
+Palabras encontradas: 1000
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.033399
+Tiempo de backtracking: 1.61961
+Tiempo total: 1.65301
+Numero de llamadas: 66695413
+Palabras encontradas: 1000
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.033139
+Tiempo de backtracking: 68.4954
+Tiempo total: 68.5285
+Numero de llamadas: 431537200
+Palabras encontradas: 1000
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.032751
+Tiempo de backtracking: 2.89806
+Tiempo total: 2.93081
+Numero de llamadas: 66695413
+Palabras encontradas: 1000
+ 
+
+------------------
+./samplesRandomK/sample_1000_1000_20_30.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.029492
+Tiempo de backtracking: 5.78364
+Tiempo total: 5.81313
+Numero de llamadas: 77065024
+Palabras encontradas: 260
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.03319
+Tiempo de backtracking: 1.456
+Tiempo total: 1.48919
+Numero de llamadas: 77158546
+Palabras encontradas: 260
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.038232
+Tiempo de backtracking: 5.13371
+Tiempo total: 5.17194
+Numero de llamadas: 75585665
+Palabras encontradas: 260
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.033196
+Tiempo de backtracking: 4.04014
+Tiempo total: 4.07333
+Numero de llamadas: 77158546
+Palabras encontradas: 260
+ 
+
+------------------
+./samplesRandomK/sample_1000_1000_20_5.txt
+
+Ejecutando diccSortedVector: 
+Tiempo de inicialización: 0.033158
+Tiempo de backtracking: 5.39287
+Tiempo total: 5.42603
+Numero de llamadas: 72048840
+Palabras encontradas: 1000
+ 
+Ejecutando diccTrie: 
+Tiempo de inicialización: 0.031282
+Tiempo de backtracking: 1.55893
+Tiempo total: 1.59022
+Numero de llamadas: 70754454
+Palabras encontradas: 1000
+ 
+Ejecutando diccBloomFilter: 
+Tiempo de inicialización: 0.032672
+Tiempo de backtracking: 4.28311
+Tiempo total: 4.31578
+Numero de llamadas: 57837792
+Palabras encontradas: 1000
+ 
+Ejecutando diccDHashing: 
+Tiempo de inicialización: 0.033533
+Tiempo de backtracking: 3.41835
+Tiempo total: 3.45188
+Numero de llamadas: 70754454
+Palabras encontradas: 1000
+ 
